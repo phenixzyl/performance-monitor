@@ -1,0 +1,9 @@
+2025-12-01 13:11:04 | TBT (Total Blocking Time) | Value: 35.0000 | Rating: good | Path: /index
+2025-12-01 13:11:05 | TTFB | Value: 451.1000 | Rating: good | Path: /index
+2025-12-01 13:11:05 | FP | Value: 484.0000 | Rating: good | Path: /index
+2025-12-01 13:11:05 | FCP | Value: 484.0000 | Rating: good | Path: /index
+2025-12-01 13:11:13 | LCP | Value: 1448.0000 | Rating: good | Path: /index
+2025-12-01 13:11:22 | INP | Value: 8.0000 | Rating: good | Path: /index
+2025-12-01 13:11:22 | CLS | Value: 0.0001 | Rating: good | Path: /index
+2025-12-01 13:11:57 | TBT (Total Blocking Time) | Value: 75.0000 | Rating: good | Path: /index
+2025-12-01 13:11:57 | INP | Value: 72.0000 | Rating: good | Path: /index
